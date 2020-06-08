@@ -1,0 +1,3 @@
+*.pyc
+djangoheroku/__pycache__
+djangoherouku/local_settings.py
